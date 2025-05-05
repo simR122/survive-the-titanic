@@ -6,28 +6,7 @@ Welcome to the **Survive the Titanic** project! This project predicts the surviv
 
 ## 🚀 Technologies Used
 
-<table>
-  <tr>
-    <td>![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)</td>
-    <td>![Flask](https://img.shields.io/badge/Flask-2.0.3-green?logo=flask&logoColor=white)</td>
-  </tr>
-  <tr>
-    <td>![Redis](https://img.shields.io/badge/Redis-6.2-red?logo=redis&logoColor=white)</td>
-    <td>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql&logoColor=white)</td>
-  </tr>
-  <tr>
-    <td>![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-orange?logo=scikit-learn&logoColor=white)</td>
-    <td>![Prometheus](https://img.shields.io/badge/Prometheus-2.0-orange?logo=prometheus&logoColor=white)</td>
-  </tr>
-  <tr>
-    <td>![Grafana](https://img.shields.io/badge/Grafana-8.0-yellow?logo=grafana&logoColor=white)</td>
-    <td>![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker&logoColor=white)</td>
-  </tr>
-  <tr>
-    <td>![Apache Airflow](https://img.shields.io/badge/Airflow-2.0-blue?logo=apache-airflow&logoColor=white)</td>
-    <td></td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2.0.3-green?logo=flask&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-6.2-red?logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?logo=postgresql&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-orange?logo=scikit-learn&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-2.0-orange?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-8.0-yellow?logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-2.0-blue?logo=apache-airflow&logoColor=white)
 
 ---
 
